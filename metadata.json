@@ -1,0 +1,7 @@
+{
+  "name": "CNN Visualizer & Classifier",
+  "description": "An interactive educational platform for learning Convolutional Neural Networks through image classification projects, featuring dataset preprocessing, architecture building, and AI-powered inference.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
